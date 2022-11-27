@@ -1,24 +1,32 @@
 # Profile
 ***
-To put it plainly, I have always enjoyed problem solving, and building a solution or system that works its job flawlessly. I'm also a big fan of automating all sorts of tasks, either simple or complex.
+I have always enjoyed the process of problem solving, Whether it's building solutions that serves its purpose seamlessly, or automating a chain of processes until it can't be more automated. I might have to try countless different implementations, or read through old documentations that no soul has visited since 2010, but at the end of the day, it's all worth it when something finally works just the way I wanted.
 
-But in the greater scope of things, I believe that engineers are responsible for driving the growth of our society, therefore, it is an important job that needs to be attended with utmost effort and sense of responsibility. Although I'm excited yet equally intimidated by this view, I still want to be a part of it.
+I believe that engineers are hugely responsible for the development of our society. It's an important role that needs to be treated with utmost responsibility and effort. I aspire to follow the engineering standards.
 
-I have done coding in Visual Basic, Python and C across the past 4 years.
-In 2022 I'm currently studying:
+With 4 years of programming experience with Java, Python, C, Matlab, R and Visual Basic. As of November 2023, I have completed my study in Part II Software Engineering, covering some core knowledge:
 - Data Structures & Algorithms
-- Object Oriented Programming in Java
-- Statistical analysis in R
+- Object oriented programming (Java)
+- Statistical analysis (R)
 - Computer engineering fundamentals
+- Software quality control (JUnit)
 
-But later on in 2022 I will also be studying:
-- Software design & Quality assurance
-- Software engineering Professional skills & Communications
+In 2023 I will be studying:
+- Database Systems (SQL)
+- Project Management
+- Software architecture
 
-I'm always nervous of something going unsmooth, which turns out to be very useful. Whenever something important comes up, I like to plan ahead, and triple-check everything that could be a liability. This habit is not always pleasant for myself, but it forces me to over-prepare for things that I value.
+Had some personal and academic projects in the past:
+- (Hobby) arch linux system completely customized for personal use, likes to mess with linux systems.
+- (Academic) JavaFX game developed under a team of 3, main element beingplayer has to draw based on a random prompt, given a limited amount time, if the quick-draw machine learning prediction model has the matching prediction, the player wins. 
+- (Academic) CLI game simulating blackjack involving the player, 2 other player bots, and a dealer bot. Utilizes OOP design patterns to implement changing bot behaviours.
+- (Hobby) (WIP) JavaFX app, it is fundamentally a timer that help to time and monitor the user's workflow when using the pomodoro technique. Personally want to enrich the pomodoro process with more app features to make studying more fun & attractive.
 
-When I lack the skill or experience to lead others, I'm usually the supportive player in a team. That is, when there is a position unfilled, or a task unattended, I'm willing to be the one that gets it done, if it is within my ability to do so. If I am confident with my experience and skill-set, I can take the role of a mentor or trainer that assists others in the team.
+^Extremely eager to put these knowledge and experiences to use.
 
+I usually play as the supportive player in a team. That is, when there is a position unfilled, or a task unattended, I'm willing to be the one that gets it done, if it is within my ability to do so.
+
+Also, I hate it when something goes unsmooth, which turns out to be a rather useful trait. Whenever something important comes up, I tend to plan ahead and double check everything that could present as a liability. It's not a fun trait to have, but it did help me prepare for things that I find myself least confident with.
 
 <!---
 calebWei/calebWei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
