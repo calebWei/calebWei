@@ -1,10 +1,12 @@
 # Profile
 ***
-I have always enjoyed the process of problem solving, Whether it's building solutions that serves its purpose seamlessly, or automating a chain of processes until it can't be more automated. I might have to try countless different implementations, or read through old documentations that no soul has visited since 2010, but at the end of the day, it's all worth it when something finally works just the way I wanted.
+## Description
+Currently a third-year student @ the University of Auckland. I have always enjoyed the process of problem solving, Whether it's building solutions that serves its purpose seamlessly, or automating a chain of processes until it can't be more automated. I might have to try countless different implementations, or read through old documentations that no soul has visited since 2010, but at the end of the day, it's all worth it when something finally works just the way I wanted.
 
 I believe that engineers are hugely responsible for the development of our society. It's an important role that needs to be treated with utmost responsibility and effort. I aspire to follow the engineering standards.
 
-With 4 years of programming experience with Java, Python, C, Matlab, R and Visual Basic. As of November 2023, I have completed my study in Part II Software Engineering, covering some core knowledge:
+## Academic Experiences
+With 4 years of programming experience with Java, Python, C, Matlab, R and Visual Basic. As of November 2022, I have completed my study in Part II Software Engineering, covering some core knowledge:
 - Data Structures & Algorithms
 - Object oriented programming (Java)
 - Statistical analysis (R)
@@ -16,7 +18,8 @@ In 2023 I will be studying:
 - Project Management
 - Software architecture
 
-Had some personal and academic projects in the past:
+## Projects
+Some personal and academic projects in the past:
 - (Hobby) arch linux system completely customized for personal use, likes to mess with linux systems.
 - (Academic) JavaFX game developed under a team of 3, main element beingplayer has to draw based on a random prompt, given a limited amount time, if the quick-draw machine learning prediction model has the matching prediction, the player wins. 
 - (Academic) CLI game simulating blackjack involving the player, 2 other player bots, and a dealer bot. Utilizes OOP design patterns to implement changing bot behaviours.
@@ -24,7 +27,8 @@ Had some personal and academic projects in the past:
 
 ^Extremely eager to put these knowledge and experiences to use.
 
-I usually play as the supportive player in a team. That is, when there is a position unfilled, or a task unattended, I'm willing to be the one that gets it done, if it is within my ability to do so.
+## Traits
+I usually play as a supportive player in the team. That is, when there is a position unfilled, or a task unattended, I'm willing to be the one that gets it done, if it is within my ability.
 
 Also, I hate it when something goes unsmooth, which turns out to be a rather useful trait. Whenever something important comes up, I tend to plan ahead and double check everything that could present as a liability. It's not a fun trait to have, but it did help me prepare for things that I find myself least confident with.
 
