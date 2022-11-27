@@ -25,7 +25,7 @@ Some personal and academic projects in the past:
 - (Academic) CLI game simulating blackjack involving the player, 2 other player bots, and a dealer bot. Utilizes OOP design patterns to implement changing bot behaviours.
 - (Hobby) (WIP) JavaFX app, it is fundamentally a timer that help to time and monitor the user's workflow when using the pomodoro technique. Personally want to enrich the pomodoro process with more app features to make studying more fun & attractive.
 
-^Extremely eager to put these knowledge and experiences to use.
+^Extremely eager to put these knowledge and experiences to use.^
 
 ## Traits
 I usually play as a supportive player in the team. That is, when there is a position unfilled, or a task unattended, I'm willing to be the one that gets it done, if it is within my ability.
