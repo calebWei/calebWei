@@ -38,7 +38,7 @@ Some personal and academic projects in the past:
 ## Traits
 I usually play a supportive role in the team. That is, when there is a position unfilled, or a task unattended, I'm willing to be the one that gets it done, if it is within my ability.
 
-Also, I hate it when something goes unsmooth, which turns out to be a rather useful trait. Whenever something important comes up, I tend to plan ahead and double check everything that could present as a liability. It's not a fun trait to have, but it did help me prepare for things that I find myself least confident with.
+Hates when something goes unsmooth, which turns out to be a rather useful trait. Whenever something important comes up, I tend to plan ahead and double check everything that could present as a liability. It's not a fun trait to have, but it did help me prepare for things that I find myself less confident with.
 
 <!---
 calebWei/calebWei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
