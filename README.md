@@ -20,10 +20,10 @@ In 2023 I have studied:
 - Project Management
 
 In 2023 I will be studying:
-- Software Architecture
-- Software Engineering Design 2
+- Software Architecture (RESTful framework)
+- Software Engineering Design 2 (Android app development)
 - Networks & Security
-- Software Maintenance & Evolution
+- Software Maintenance & Evolution (Project life cycle & documentation)
 
 ## Projects
 Some personal and academic projects in the past:
