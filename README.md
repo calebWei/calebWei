@@ -1,7 +1,7 @@
 # Profile
 ***
 ## Description
-Currently a 3rd year student @ the University of Auckland. Always enjoyed the problem solving process, whether it's building solutions that serves its purpose seamlessly, or automating a chain of processes until it can't be more automated. I might have to try countless different implementations, or read through old documentations that no soul has visited since 2010, but at the end of the day, it's all worth it when something finally works as intended.
+3rd year student at the University of Auckland. Always enjoyed the problem solving process, whether it's building solutions that serves its purpose seamlessly, or automating a chain of processes until it can't be more automated. I might have to try countless different implementations, or read through old documentations that no soul has visited since 2010, but at the end of the day, it's all worth it when something finally works as intended.
 
 I believe that engineers are hugely responsible for the development of our society. It's an important role that needs to be treated with utmost responsibility and effort. Aspired to contribute to impactful softwares projects.
 
