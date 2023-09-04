@@ -19,7 +19,7 @@ In 2023 I will be studying:
 - Computer graphics & Image processing (OpenGL)
 - Project Management
 
-- Software Architecture (RESTful framework)
+- Software Architecture (RESTful framework, JAX-RS)
 - Software Engineering Design 2 (Android app development)
 - Networks & Security
 - Software Maintenance & Evolution (Project life cycle & documentation)
