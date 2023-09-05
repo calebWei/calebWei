@@ -1,12 +1,10 @@
 # Profile
 ***
 ## Description
-3rd year student at the University of Auckland. Always enjoyed the problem solving process, whether it's building solutions that serves its purpose seamlessly, or automating a chain of processes until it can't be more automated. I might have to try countless different implementations, or read through old documentations that no soul has visited since 2010, but at the end of the day, it's all worth it when something finally works as intended.
-
-I believe that engineers are hugely responsible for the development of our society. It's an important role that needs to be treated with utmost responsibility and effort. Aspired to contribute to impactful softwares projects.
+3rd year student at the University of Auckland. Loves building solution that serves its purpose seamlessly, or automating a chain of processes until it can't be more automated. Might have to try countless different implementations, or read through old documentations that no soul has visited since 2010, but at the end of the day, it's all worth it when something finally works as intended. I aspired to contribute to impactful softwares projects.
 
 ## Academic Experiences
-With 4 years of programming experience with C, Java, Python, C, Matlab, R. As of November 2022, I have completed my study in Part II Software Engineering, covering some core concepts:
+With 4 years of programming experience with C, Java, Python, C, Matlab, R. Since November 2022, I have completed my study in Part II Software Engineering, covering some core concepts:
 - Data Structures & Algorithms
 - Object oriented programming (Java)
 - Statistical analysis (R)
