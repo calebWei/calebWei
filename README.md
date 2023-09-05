@@ -15,7 +15,7 @@ In 2023 I will be studying:
 - Database Systems (SQL)
 - Operating Systems (C)
 - Computer graphics & Image processing (OpenGL)
-- Project Management
+- Project across multiple engineering disciplines 
 
 - Software Architecture (RESTful framework, JAX-RS)
 - Software Engineering Design 2 (Android app development)
