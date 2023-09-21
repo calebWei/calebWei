@@ -20,7 +20,7 @@ In 2023 I will be studying:
 - Software Architecture (REST API, JAX-RS)
 - Software Engineering Design 2 (Android app development)
 - Networks & Security
-- Software Maintenance & Evolution (Project life cycle & documentation)
+- Software Maintenance & Evolution (Project life cycle & documentation) (Discord bot development, Node / React / Typescript) 
 
 ## Projects
 Some personal and academic projects in the past:
