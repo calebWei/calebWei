@@ -35,7 +35,7 @@ Some personal and academic projects in the past:
 
 ^Extremely eager to put these knowledge and experiences to use.^
 
-## Traits
+## Teamwork
 I usually play a supportive role in the team. That is, when there is a position unfilled, or a task unattended, I'm willing to be the one that gets it done, if it is within my ability.
 
 Recently uncovering leadership traits in myself across certain projects, more than willing to organize meetings, delegate tasks to get things done in time.
