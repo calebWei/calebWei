@@ -24,6 +24,7 @@ In 2023 I will be studying:
 
 ## Projects
 Some personal and academic projects in the past:
+- A* algorithm which generates most optimal schedule to execute a CPU task graph, with dynamic interactive visualisation written in JavaFx.
 - Native android app developed under a team of 3, focused on providing a premium platform for browsing and purchasing football team shirts.
 - JavaFX game developed under a team of 3, main element beingplayer has to draw based on a random prompt, given a limited amount time, if the quick-draw machine learning prediction model has the matching prediction, the player wins. 
 - Python barcode detection algorithm, capable of detecting location of barcode in an image or video, by ustiliting mathematical image processing techiniques.
