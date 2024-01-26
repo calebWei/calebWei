@@ -1,17 +1,20 @@
 # Profile
 ***
 ## Description
-3rd year student at the University of Auckland. Loves building solution that serves its purpose seamlessly, or automating a chain of processes until it can't be more automated. Might have to try countless different implementations, or read through old documentations that no soul has visited since 2010, but at the end of the day, it's all worth it when something finally works as intended. I aspired to contribute to impactful softwares projects.
+Final year student at the University of Auckland. Loves building solution that serves its purpose seamlessly, or automating a chain of processes until it can't be more automated. Might have to try countless different implementations, or read through old documentations that no soul has visited since 2010, but at the end of the day, it's all worth it when something finally works as intended. I aspired to contribute to impactful softwares projects.
+
+## Work Experiences
+- (Ongoing) R&D internship at Integrated Control Technology
 
 ## Academic Experiences
-With 4 years of programming experience with C, Java, Python, C, Matlab, R. Since November 2022, I have completed my study in Part II Software Engineering, covering some core concepts:
+With 4 years of programming experience involving C, Java, Typescript, Python, Matlab, R. Since November 2022, I have completed my study in Part II Software Engineering, covering some core concepts:
 - Data Structures & Algorithms
 - Object oriented programming (Java)
 - Statistical analysis (R)
 - Computer engineering fundamentals
 - Software quality control (JUnit)
 
-In 2023 I will be studying:
+Topics I have stydied in 2023:
 - Database Systems (SQL)
 - Operating Systems (C)
 - Computer graphics & Image processing (OpenGL)
@@ -20,7 +23,9 @@ In 2023 I will be studying:
 - Software Architecture (REST API, JAX-RS)
 - Software Engineering Design 2 (Android app development)
 - Networks & Security
-- Software Maintenance & Evolution (Project life cycle & documentation) (Discord bot development, Node / React / Typescript) 
+- Software Maintenance & Evolution (Project life cycle & documentation) (Discord bot development, Node / React / Typescript)
+
+- Next.js framework
 
 ## Projects
 Some personal and academic projects in the past:
