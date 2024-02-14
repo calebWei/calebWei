@@ -30,7 +30,7 @@ With 4 years of programming experience involving C, Java, Typescript, Python, Ma
 | Software Engineering Design 2 | Android app development |
 | Networks & Security | Wireshark |
 | Software Maintenance & Evolution | Project life cycle & documentation (Discord bot development, Node / React / Typescript) |
-| Next.js frame work | - |
+| Next.js framework | - |
 
 ## Projects
 
