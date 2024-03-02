@@ -12,22 +12,27 @@ Final year student at the University of Auckland. Loves building solutions that 
 
 ## Academic Experiences
 
-With 4 years of programming experience involving C, Java, Typescript, Python, Matlab, R. Since November 2022, completed study in Part II Software Engineering, covering some core concepts:
+Familiar with C, Java, Typescript, Python. Completed study in Part III Software Engineering, some of the topics studied:
 
-- Data Structures & Algorithms
-- Object-oriented programming (Java)
-- Statistical analysis (R)
-- Computer engineering fundamentals
-- Software quality control (JUnit)
+| Topics Studied in 2022 | Language/Tool Used |
+| ---------------------- | ------------------ |
+| Data Structures & Algorithms | - |
+| Object-oriented programming | Java |
+| Software design fundermentals | Java, JavaFX |
+| Mathematical modelling | - |
+| Statistical analysis | R |
+| Computer engineering fundamentals | Embedded C |
+| Software quality control | Java, JUnit framework |
+| Software development process | Agile |
 
 | Topics Studied in 2023 | Language/Tool Used |
 | ---------------------- | ------------------ |
 | Database Systems | SQL |
 | Operating Systems | C |
-| Computer graphics & Image processing | OpenGL |
-| Project across multiple engineering disciplines | - |
+| Computer graphics & Image processing | OpenGL, Python |
+| Project across multiple engineering disciplines | Business case |
 | Software Architecture | REST API, JAX-RS |
-| Software Engineering Design 2 | Android app development |
+| Software Engineering Design 2 | Java, Android Studios, JavaFX, Figma |
 | Networks & Security | Wireshark |
 | Software Maintenance & Evolution | Project life cycle & documentation (Discord bot development, Node / React / Typescript) |
 | Next.js framework | - |
@@ -47,4 +52,4 @@ Some personal and academic projects from the past:
 
 ## Teamwork
 
-Usually plays a supportive role in the team. That is, when there is a position unfilled, or a task unattended, willing to be the one that gets it done, if it is within ability. Recently uncovering leadership traits across certain projects, more than willing to organize meetings, delegate tasks to get things done in time.
+I usually play a supportive role in teams. When there is a position unfilled or a task unattended, I'm willing to take it over and get it done. However, I've recently been discovering leadership skills, so I'm more than willing to organize meetings, direct decision making and delegate tasks.
