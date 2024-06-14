@@ -1,4 +1,5 @@
 # Profile
+![image](https://github.com/calebWei/calebWei/assets/100410646/7ac71ea9-8319-48f5-9f83-15d28e8be98b)
 
 ## Description
 
@@ -29,7 +30,6 @@ Familiar with C, Java, Typescript, Python. Completed study in Part III Software 
 | Software Engineering Design 2 | Java, Android Studios, JavaFX, Figma |
 | Networks & Security | Wireshark |
 | Software Maintenance & Evolution | Project life cycle & documentation (Discord bot development, Node / React / Typescript) |
-| Next.js framework | - |
 
 | Topics Studied in 2024 | Technology/Tool/Workflow |
 | ---------------------- | ------------------ |
