@@ -2,7 +2,7 @@
 
 ## Description
 
-I'm a final-year software engineering student from the University of Auckland, and I'm passionate in AI, automation, and web development. I love the idea of building small projects that have the potential to deliver great influence to a large number of people.
+I'm a final-year software engineering student from the University of Auckland, and I'm passionate in AI, automation, and web development. I love the idea of building small projects with the potential to deliver great significance to a large group of people.
 
 ## Academic Experiences
 
