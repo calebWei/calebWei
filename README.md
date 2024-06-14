@@ -1,7 +1,7 @@
 # Profile
 ![image](https://github.com/calebWei/calebWei/assets/100410646/7ac71ea9-8319-48f5-9f83-15d28e8be98b)
 
-## Description
+## Bio
 
 I'm a final-year software engineering student from the University of Auckland, passionate in AI, automation, and web development. I love the idea of building small projects with the potential to deliver great significance to a large group of people. I have been rotating between a variety of teams and projects for the past 4 years, so I'm no stranger to working effectively in diverse and fast-paced environments.
 
