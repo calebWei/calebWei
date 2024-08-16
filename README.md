@@ -36,7 +36,9 @@ Familiar with C, Java, Typescript, Python. Completed study in Part III Software 
 | Advanced Requirements Engineering | BDD, TDD, Cucumber, Mockito, Java, Selenium, Agile |
 | Capstone Project | Next.JS, Prisma ORM, MongoDB, Vercel |
 | Web Development | MongoDB, Express, React, Nodejs |
-| Research Project | ChatGPT |
+| Research Project | LLM application |
+| Advanced Graphics Research Project | Unity, Agent-based modelling, driver behaviour simulation, traffic simulation, C# |
+| Usability and Security | HCI |
 
 ## Projects
 
