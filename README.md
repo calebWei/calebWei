@@ -3,11 +3,11 @@
 
 ## Bio
 
-I have recently graduated and am currently working with the amazing teams at ICT!
+I have recently graduated from the University of Auckland and am currently working with the amazing teams at ICT!
 
 My passion lies in full-stack development, especially when it comes to building simple tools with the potential to bring value to many.
 
-I'm currently aiming to develop my skills further in backend development to match my frontend skills, while taking more initiative in projects when appropriate.
+Currently aiming to develop my skills further in backend development to match my frontend skills, while taking more initiative in projects when appropriate.
 
 ## Academic Experiences
 
